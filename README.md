@@ -1,3 +1,4 @@
 # Music-Player
 Efficient Music Player for Python
-Requires Pygame, Random, OS, and is set to work with easygui that can be disabled.
+Requires pygame, random, os, and easygui modules,
+very low processing consumption.
